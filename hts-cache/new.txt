@@ -1,0 +1,8 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+05:14:33	5142/5142	---M-Z	404	error ('Not%20Found')	text/html	etag:W/%2267d1cd22-239b%22	https://isfay.github.io/robots.txt		(from )
+05:14:33	9198/9198	---M-Z	200	added ('OK')	text/html	etag:W/%2267cdab9a-23ee%22	https://isfay.github.io/492/	C:/New%20folder%20(2)/spider/isfay.github.io/492/index.html	(from )
+05:14:34	9379/9379	---M-Z	404	error ('Not%20Found')	text/html	etag:W/%2264d39a40-24a3%22	https://isfay.github.io/492/s3	C:/New%20folder%20(2)/spider/isfay.github.io/492/s3	(from https://isfay.github.io/492/)
+05:14:34	1946398/1946398	---M--	200	added ('OK')	image/png	etag:%2267cdab9a-1db31e%22	https://isfay.github.io/492/image.png	C:/New%20folder%20(2)/spider/isfay.github.io/492/image.png	(from https://isfay.github.io/492/)
+05:14:34	15296/15296	---M-Z	200	added ('OK')	text/html	etag:W/%2267cdab9a-3bc0%22	https://isfay.github.io/492/HEN/492/hen492.html	C:/New%20folder%20(2)/spider/isfay.github.io/492/HEN/492/hen492.html	(from https://isfay.github.io/492/)
+05:14:34	9379/9379	---M-Z	404	error ('Not%20Found')	text/html	etag:W/%2264d39a40-24a3%22	https://isfay.github.io/492/HEN/492/style.css	C:/New%20folder%20(2)/spider/isfay.github.io/492/HEN/492/style.css	(from https://isfay.github.io/492/HEN/492/hen492.html)
+05:15:42	24161768/24161768	---M--	200	added ('OK')	application/octet-stream	etag:%2267cdab9a-170ade8%22	https://isfay.github.io/492/HEN/492/SETUP.P3T	C:/New%20folder%20(2)/spider/isfay.github.io/492/HEN/492/SETUP.P3T	(from https://isfay.github.io/492/HEN/492/hen492.html)
